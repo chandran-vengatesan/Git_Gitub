@@ -1,0 +1,6 @@
+let a="i am fine".split(" ");
+let b=a[0].split("");
+let c=b[1].split("");
+let d=b contact(c);
+let e=d.join(" ");
+console.log(e)
